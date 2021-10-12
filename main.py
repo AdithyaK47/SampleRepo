@@ -80,3 +80,5 @@ executionTime = (time.time() - startTime)
 print('Execution time in seconds: ' + str(executionTime))
 
 print("Hello")
+print("HAHA")
+print("THE END")
