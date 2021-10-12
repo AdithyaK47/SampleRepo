@@ -79,6 +79,5 @@ with open(csv_result, 'w', newline='') as csvFile:
 executionTime = (time.time() - startTime)
 print('Execution time in seconds: ' + str(executionTime))
 
-print("Hello")
-print("HAHA")
-print("THE END")
+
+
